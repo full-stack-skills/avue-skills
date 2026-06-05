@@ -1,0 +1,17 @@
+{
+  "name": "avue-skills",
+  "version": "1.0.0",
+  "description": "Avue enterprise framework skills — CRUD, Form, admin components",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/avue-skills",
+  "repository": "https://github.com/full-statck-skills/avue-skills",
+  "source": "./",
+  "skills": [
+    "./skills/avue-crud",
+    "./skills/avue-form",
+    "./skills/avue",
+  ]
+}
