@@ -1,7 +1,7 @@
 {
   "name": "avue-skills",
   "version": "1.0.0",
-  "description": "Avue enterprise framework skills — CRUD, Form, admin components",
+  "description": "Avue enterprise framework skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -12,6 +12,6 @@
   "skills": [
     "./skills/avue-crud",
     "./skills/avue-form",
-    "./skills/avue",
+    "./skills/avue"
   ]
 }
