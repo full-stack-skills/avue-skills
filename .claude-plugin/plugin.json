@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/avue-skills",
-  "repository": "https://github.com/full-statck-skills/avue-skills",
+  "homepage": "https://github.com/full-stack-skills/avue-skills",
+  "repository": "https://github.com/full-stack-skills/avue-skills",
   "source": "./",
   "skills": [
     "./skills/avue-crud",

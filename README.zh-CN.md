@@ -4,7 +4,7 @@
 
 **Avue enterprise framework skills — CRUD, Form, admin components**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Favue-skills-green.svg)](https://github.com/full-statck-skills/avue-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Favue-skills-green.svg)](https://github.com/full-stack-skills/avue-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
@@ -29,13 +29,13 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-statck-skills/avue-skills
+npx skills add full-stack-skills/avue-skills
 ```
 
 或按需安装特定技能：
 
 ```bash
-npx skills add full-statck-skills/avue-skills --skill <skill-name>
+npx skills add full-stack-skills/avue-skills --skill <skill-name>
 ```
 
 ## 🎯 技能列表 (3)
@@ -55,13 +55,13 @@ npx skills add full-statck-skills/avue-skills --skill <skill-name>
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-statck-skills/avue-skills
+npx skills add full-stack-skills/avue-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-statck-skills/avue-skills.git
+git clone https://github.com/full-stack-skills/avue-skills.git
 cp -r avue-skills/skills/* .claude/skills/
 ```
 
@@ -72,7 +72,7 @@ cp -r avue-skills/skills/* .claude/skills/
 | 资源 | 链接 |
 |------|------|
 | **Full Stack Skills** | [github.com/partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) |
-| **全部技能组** | [github.com/full-statck-skills](https://github.com/full-statck-skills) |
+| **全部技能组** | [github.com/full-stack-skills](https://github.com/full-stack-skills) |
 | **Agent Skills 规范** | [agentskills.io](https://agentskills.io) |
 | **Skills CLI** | [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills) |
 

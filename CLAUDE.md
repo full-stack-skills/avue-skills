@@ -60,4 +60,4 @@ Body follows progressive disclosure: `## When to use this skill` bullets, then `
 
 ## Plugin Registration
 
-Claude Code discovers skills via `.claude-plugin/plugin.json`. Add new skills to the `skills` array there. Install with: `npx skills add full-statck-skills/avue-skills`
+Claude Code discovers skills via `.claude-plugin/plugin.json`. Add new skills to the `skills` array there. Install with: `npx skills add full-stack-skills/avue-skills`
