@@ -1,7 +1,7 @@
 ---
 name: avue-form
 description: Provides comprehensive guidance for Avue Form component including form configuration, validation, and dynamic forms. Use when the user asks about Avue Form, needs to create dynamic forms, implement form validation, or work with form configurations.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

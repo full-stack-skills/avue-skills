@@ -1,7 +1,7 @@
 ---
 name: avue
 description: Provides comprehensive guidance for Avue framework including CRUD operations, form components, and data management. Use when the user asks about Avue, needs to build admin interfaces, implement CRUD operations, or work with Avue components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

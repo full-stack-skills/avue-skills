@@ -1,7 +1,7 @@
 ---
 name: avue-crud
 description: Provides comprehensive guidance for Avue CRUD component including table operations, form handling, and data management. Use when the user asks about Avue CRUD, needs to implement table CRUD operations, or build data management interfaces.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
