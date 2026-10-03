@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avue Form"
+  short_description: "Avue Form component including form configuration, validation…"
+  default_prompt: "Use $avue-form to help with my current task: Provides comprehensive guidance for Avue Form component including form configuration, validation, and dynamic forms."

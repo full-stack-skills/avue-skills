@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avue"
+  short_description: "Avue framework including CRUD operations, form components, and…"
+  default_prompt: "Use $avue to help with my current task: Provides comprehensive guidance for Avue framework including CRUD operations, form components, and data management."

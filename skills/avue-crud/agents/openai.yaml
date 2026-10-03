@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avue Crud"
+  short_description: "Avue CRUD component including table operations, form handling…"
+  default_prompt: "Use $avue-crud to help with my current task: Provides comprehensive guidance for Avue CRUD component including table operations, form handling, and data management."
